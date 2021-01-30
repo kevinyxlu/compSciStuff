@@ -1,0 +1,21 @@
+These are the sorted results:
+ID# 3, , , Average GPA: 5.19621e-310
+ID# 892275728, , , Average GPA: 3.46726e-310
+ID# 737063232, , , Average GPA: 6.92516e-310
+ID# 736921164, , , Average GPA: 5.18687e-310
+ID# 734850621, , , Average GPA: 3.45793e-310
+ID# 1, , , Average GPA: 3.45793e-310
+ID# 731364804, , , Average GPA: 1.72897e-310
+ID# 892275972, , , Average GPA: 6.94385e-310
+ID# 4, , , Average GPA: 5.18693e-310
+ID# 736698064, , , Average GPA: 1.72896e-310
+ID# 736682120, , , Average GPA: -nan
+ID# -1, , , Average GPA: -nan
+ID# 1664447571, , , Average GPA: 0
+ID# 0, , , Average GPA: 0
+ID# 2, , , Average GPA: 1.72896e-310
+ID# 736688960, , , Average GPA: 2.43681e+144
+ID# 0, , , Average GPA: 3.45792e-310
+ID# 731600854, , , Average GPA: 1.03762e-317
+ID# 1, 2, 2, Average GPA: 2
+ID# 2, 2, 2, Average GPA: 2
