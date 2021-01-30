@@ -22,7 +22,7 @@ class Array
 
 int main()
 {
-    Array<string, 50> myArray;
+    Array<string, 60> myArray;
     cout << myArray.getSize();
     return 0;
 }
